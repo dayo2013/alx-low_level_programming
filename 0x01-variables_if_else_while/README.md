@@ -8,3 +8,6 @@ File: 6-print_numberz.c - program that prints all single digit numbers of base 1
 File: 7-print_tebahpla.c -program that prints the lowercase alphabet in reverse, followed by a new line.
 File: 8-print_base16.c - program that prints all the numbers of base 16 in lowercase, followed by a new line.
 File: 9-print_comb.c -program that prints all possible combinations of single-digit numbers.
+File: 100-print_comb3.c -program that prints all possible different combinations of two digits.
+File: 101-print_comb4.c - program that prints all possible different combinations of three digits.
+File: 102-print_comb5.c - program that prints all possible combinations of two two-digit number.
