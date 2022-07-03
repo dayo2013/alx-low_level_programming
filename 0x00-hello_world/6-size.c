@@ -1,7 +1,10 @@
-#!/bin/bash
-
 #include <stdio.h>
 
+/**
+ * main - print the size of various type
+ *
+ * Return: Always 0 (success)
+ */
 int main(void)
 {
 	int a;
